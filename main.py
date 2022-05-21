@@ -26,9 +26,9 @@ if not os.path.exists(f"Users/5214819136/phone.csv"):
    open(f"Users/5214819136/phone.csv","w")
 if not os.path.exists('data.csv'):
     open("data.csv","w")
-APP_ID = 8818270
-API_HASH = "ce80b6a5cf8864b19afa700a782c7f5c"
-BOT_TOKEN = "5309608921:AAFM-Ntyc0QheL-1yYp0O8CfY-3K1BuEYP8"
+APP_ID = 8
+API_HASH = "c"
+BOT_TOKEN = "5"
 UPDATES_CHANNEL = "membarrrrrrrre"
 OWNER= [5214819136,1356469075]
 PREMIUM=[5214819136,1356469075]
